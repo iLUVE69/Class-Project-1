@@ -9,3 +9,6 @@ class project 1 submission
 
 ## State Optimization
 ![final state optimization (1)](https://github.com/user-attachments/assets/1ae3c3da-92ff-4d10-b8ed-96fc727ee6a1)
+
+## Listed Youtube video
+https://youtu.be/0rGBvU-0kuY 
